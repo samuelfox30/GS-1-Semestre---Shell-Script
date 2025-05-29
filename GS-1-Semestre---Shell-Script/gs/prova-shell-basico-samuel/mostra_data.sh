@@ -1,0 +1,1 @@
+echo "A data atual é: $(date)"
